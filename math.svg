@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer2"
+     transform="translate(30)"
+     style="display:inline">
+    <rect
+       style="fill:#aa0000;fill-opacity:1;stroke-width:0"
+       id="rect2-3"
+       width="400"
+       height="480"
+       x="40"
+       y="30" />
+    <rect
+       style="fill:#ffffff;stroke-width:0"
+       id="rect2"
+       width="360"
+       height="440"
+       x="60"
+       y="50" />
+  </g>
+  <g
+     id="layer1"
+     transform="translate(30)"
+     style="display:inline">
+    <path
+       id="rect1-6"
+       d="M 10,10 H 244.73684 L 410,190 V 490 H 10 Z"
+       style="display:inline;fill:#ffffff;stroke-width:0" />
+    <path
+       id="rect1"
+       d="M 30,30 H 240 L 390,197.61905 V 470 H 30 Z"
+       style="display:inline;fill:#aa0000;fill-opacity:1;stroke-width:0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="rect4"
+       width="20"
+       height="175"
+       x="225"
+       y="20" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="rect5"
+       width="170"
+       height="20"
+       x="225"
+       y="190" />
+  </g>
+  <g
+     id="layer8"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="rect40"
+       width="200"
+       height="30"
+       x="200"
+       y="250" />
+    <path
+       id="rect40-2"
+       style="fill:#ffffff;stroke-width:0"
+       transform="rotate(-75)"
+       d="m -346.82421,252.0918 157.06072,5.62701 v 30 l -222.8106,-11.52573 z" />
+    <path
+       id="rect40-54"
+       style="display:inline;fill:#ffffff;stroke-width:0"
+       transform="rotate(60,15,25.980762)"
+       d="M 327.1185,73.414124 411.41016,87.416698 472.03194,122.4167 327.1185,103.41412 Z" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="rect40-5"
+       width="50"
+       height="30"
+       x="80"
+       y="320" />
+    <rect
+       style="fill:#aa0000;fill-opacity:1;stroke-width:0"
+       id="rect41"
+       width="50"
+       height="30"
+       x="130"
+       y="440" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.333px;line-height:0.8;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0"
+       x="84.804688"
+       y="287.82529"
+       id="text41"><tspan
+         id="tspan41"
+         x="84.804688"
+         y="287.82529"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:133.333px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold'">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:0.8;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0"
+       x="250"
+       y="441.46875"
+       id="text42"><tspan
+         id="tspan42"
+         x="250"
+         y="441.46875"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold'">X</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer2"
+     transform="translate(30)">
+    <rect
+       style="fill:#ff6600;fill-opacity:1;stroke-width:0"
+       id="rect2-3"
+       width="400"
+       height="480"
+       x="40"
+       y="30" />
+    <rect
+       style="fill:#ffffff;stroke-width:0"
+       id="rect2"
+       width="360"
+       height="440"
+       x="60"
+       y="50" />
+  </g>
+  <g
+     id="layer1"
+     transform="translate(30)">
+    <path
+       id="rect1-6"
+       d="M 10,10 H 244.73684 L 410,190 V 490 H 10 Z"
+       style="fill:#ffffff;stroke-width:0" />
+    <path
+       id="rect1"
+       d="M 30,30 H 240 L 390,197.61905 V 470 H 30 Z"
+       style="fill:#ff6600;stroke-width:0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="rect4"
+       width="20"
+       height="175"
+       x="225"
+       y="20" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="rect5"
+       width="170"
+       height="20"
+       x="225"
+       y="190" />
+  </g>
+  <g
+     id="layer5">
+    <g
+       id="g25">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="path21"
+         d="M 355,226.85281 A 120,120 0 0 1 266.05829,342.76391 120,120 0 0 1 131.07695,286.85281 120,120 0 0 1 150.14718,142 L 235,226.85281 Z" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="path22"
+         d="M 150,115.14719 A 120,120 0 0 1 234.85281,80 v 120 z" />
+    </g>
+    <g
+       id="g24-0"
+       style="display:inline;fill:#ff6600"
+       transform="matrix(0.89080639,0,0,0.89080639,24.075022,25.087885)">
+      <path
+         style="fill:#ff6600;fill-opacity:1;stroke-width:0"
+         d="m 300.76505,263.91782 h 68.8797 v 68.8797 z"
+         id="path24-3" />
+      <rect
+         style="fill:#ff6600;fill-opacity:1;stroke-width:0"
+         id="rect23-0"
+         width="30"
+         height="150"
+         x="432.22488"
+         y="-39.01252"
+         transform="rotate(45)" />
+      <rect
+         style="fill:#ff6600;fill-opacity:1;stroke-width:0"
+         id="rect23-5-4"
+         width="30"
+         height="100"
+         x="-106.08327"
+         y="362.92807"
+         transform="rotate(-45)" />
+      <rect
+         style="fill:#ff6600;fill-opacity:1;stroke-width:0"
+         id="rect23-9-4"
+         width="30"
+         height="150"
+         x="357.70197"
+         y="76.232597"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g24"
+       style="display:inline;fill:#ffffff">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+         d="m 320.30084,272.86413 h 50 v 50 z"
+         id="path24" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="rect23"
+         width="30"
+         height="150"
+         x="439.07895"
+         y="-35.666"
+         transform="rotate(45)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="rect23-5"
+         width="30"
+         height="100"
+         x="-114.328"
+         y="369.01364"
+         transform="rotate(-45)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+         id="rect23-9"
+         width="30"
+         height="150"
+         x="369.00317"
+         y="113.95258"
+         transform="rotate(45)" />
+    </g>
+    <g
+       id="g26">
+      <rect
+         style="fill:#ff6600;fill-opacity:1;stroke-width:0"
+         id="rect24"
+         width="69.288445"
+         height="25"
+         x="70"
+         y="445" />
+      <rect
+         style="fill:#ff6600;fill-opacity:1;stroke-width:0"
+         id="rect24-1"
+         width="69.288445"
+         height="25"
+         x="400"
+         y="-100"
+         transform="rotate(90)" />
+    </g>
+  </g>
+</svg>

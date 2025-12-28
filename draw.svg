@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect7">
+      <path
+         id="mask-powermask-path-effect7_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 236.37848,313.0323 H 375.31891 V 451.97273 H 236.37848 Z" />
+      <g
+         id="g5"
+         style="fill:#000000"
+         transform="matrix(0.96117201,0,0,0.94705283,2.1353228,1.5884154)">
+        <path
+           id="path4"
+           style="fill:#000000;fill-opacity:1;stroke-width:0"
+           d="m 285.9648,441.32533 102.90202,32.50034 -2.93879,16.91435 -127.11892,-40.89921 z" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke-width:0"
+           d="m 330.70529,473.48109 h 20.80793 v -6.33823 a 25.338987,25.338987 135 0 1 25.33899,-25.33899 h 11.07488 v -21.11815 h -15.34385 a 41.877954,41.877954 135 0 0 -41.87795,41.87795 z"
+           id="path5"
+           transform="translate(-6.3864338,-8.4759995)" />
+      </g>
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect14">
+      <path
+         id="mask-powermask-path-effect14_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M 48.674432,346.83879 H 344.28462 V 462.91323 H 48.674432 Z" />
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:28.7071;stroke-dasharray:none;stroke-opacity:1"
+         id="rect14"
+         width="89.306465"
+         height="19.742008"
+         x="393.27719"
+         y="303.67706"
+         transform="matrix(0.95462778,0.29780163,-0.29934999,0.95414338,0,0)"
+         d="m 393.27719,303.67706 h 89.30647 v 19.74201 h -89.30647 z" />
+    </mask>
+  </defs>
+  <g
+     id="layer2"
+     transform="translate(30)">
+    <rect
+       style="fill:#f89a00;fill-opacity:1;stroke-width:0"
+       id="rect2-3"
+       width="400"
+       height="480"
+       x="40"
+       y="30" />
+    <rect
+       style="fill:#ffffff;stroke-width:0"
+       id="rect2"
+       width="360"
+       height="440"
+       x="60"
+       y="50" />
+  </g>
+  <g
+     id="layer1"
+     transform="translate(30)">
+    <path
+       id="rect1-6"
+       d="M 10,10 H 244.73684 L 410,190 V 490 H 10 Z"
+       style="fill:#ffffff;stroke-width:0" />
+    <path
+       id="rect1"
+       d="M 30,30 H 240 L 390,197.61905 V 470 H 30 Z"
+       style="fill:#f89a00;fill-opacity:1;stroke-width:0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="rect4"
+       width="20"
+       height="175"
+       x="225"
+       y="20" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+       id="rect5"
+       width="170"
+       height="20"
+       x="225"
+       y="190" />
+  </g>
+  <g
+     id="layer7"
+     style="display:inline">
+    <g
+       id="g32"
+       transform="matrix(0.85947462,0,0,0.84684927,12.199676,42.478408)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0"
+         d="m 237.37848,405.75491 v -46.0758 l 45.64681,-45.64681 h 48.82147 l 42.47215,136.94043 z"
+         id="path32"
+         transform="matrix(1.0403965,0,0,1.0559073,10.909796,-11.214476)"
+         mask="url(#mask-powermask-path-effect7)" />
+      <path
+         id="rect31"
+         style="fill:#ffffff;stroke-width:0"
+         d="M 49.798241,225.34286 V 172.54749 L 237.0696,357.33127 v 52.79537 z" />
+      <path
+         id="rect31-6"
+         d="M 49.798241,140.87027 V 88.074905 L 280.80399,313.57834 252.51972,341.86261 Z"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0" />
+      <path
+         id="rect31-6-0"
+         style="fill:#ffffff;stroke-width:0"
+         d="M 49.798241,56.397685 V 8.8818541 L 349.43242,299.25638 H 297.4126 Z" />
+    </g>
+  </g>
+  <path
+     style="fill:none;stroke:#ffffff;stroke-width:20;stroke-dasharray:none;stroke-opacity:1"
+     d="m 53.54368,376.34285 c 0,0 135.78407,-56.97601 94.19853,29.82201 -41.58555,86.79802 192.92103,23.0973 192.92103,23.0973"
+     id="path11"
+     mask="url(#mask-powermask-path-effect14)" />
+</svg>
